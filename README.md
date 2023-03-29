@@ -46,8 +46,8 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![OUTPUT](./out1.png)
-![OUTPUT](./out2.png)
+![out1](https://user-images.githubusercontent.com/120380280/228425083-19615add-0839-497c-9929-60ada9e769c4.png)
+![out 2](https://user-images.githubusercontent.com/120380280/228425112-90db6cd6-fed3-47f7-9870-6d4b23a17495.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
